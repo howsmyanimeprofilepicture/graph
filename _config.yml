@@ -8,7 +8,7 @@ timezone: Asia/Seoul
 
 repository: oksuoh/test
 
-permalink: blog/:title/
+permalink: test/blog/:title/
 
 excerpt_separator: <!--more-->
 
@@ -31,10 +31,10 @@ paginate_path: '/page/:num/'
 collections:
   authors:
     output: true
-    permalink: authors/:path/
+    permalink: test/authors/:path/
   tags:
     output: true
-    permalink: tags/:path/
+    permalink: test/tags/:path/
 
 defaults:
   - scope:
