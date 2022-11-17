@@ -81,8 +81,8 @@
         // turn img alt into caption
         $('#post-content > p > img[alt]').replaceWith(function () {
             return '<figure>'
-                + '<a href=test/"' + $(this).attr('src') + '" class="mg-link">'
-                + '<img src=test/"' + $(this).attr('src') + '" width="' + $(this).attr('width') + '"/></a>'
+                + '<a href="test' + $(this).attr('src') + '" class="mg-link">'
+                + '<img src="test' + $(this).attr('src') + '" width="' + $(this).attr('width') + '"/></a>'
                 + '<figcaption class="caption">' + $(this).attr('alt') + '</figcaption>'
                 + '</figure>';
         });
