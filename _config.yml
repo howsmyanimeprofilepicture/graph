@@ -2,11 +2,11 @@ title: 블로그
 email: etckoko@gmail.com
 description: |
   Connect Everything 새로운 연결, 새로운 세상.
-baseurl: 'test'
+baseurl: 'https://oksuoh.github.io/test'
 url: 'https://oksuoh.github.io/test'
 timezone: Asia/Seoul
 
-repository: pseudo-lab/graph
+repository: oksuoh/test
 
 permalink: /blog/:title/
 
