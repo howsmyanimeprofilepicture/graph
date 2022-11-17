@@ -64,7 +64,7 @@ date: 2022-03-25 13:03
     - node: 웹 페이지
     - edge: 하이퍼링크
 
-<img src="/files/posts/The-PageRank-Citation-Ranking-Bringing-Order-to-the-Web/fig_01.png" alt="그림 1 (출처: 논문 The PageRank Citation Ranking: Bringing Order to the Web)" width="300px">
+<img src="./files/posts/The-PageRank-Citation-Ranking-Bringing-Order-to-the-Web/fig_01.png" alt="그림 1 (출처: 논문 The PageRank Citation Ranking: Bringing Order to the Web)" width="300px">
 
 ## 3.2 PageRank란?
 
