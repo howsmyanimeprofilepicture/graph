@@ -8,7 +8,7 @@ timezone: Asia/Seoul
 
 repository: oksuoh/test
 
-permalink: /blog/:title/
+permalink: blog/:title/
 
 excerpt_separator: <!--more-->
 
