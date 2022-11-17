@@ -26,15 +26,15 @@ gems:
   - jekyll-paginate
 
 paginate: 5
-paginate_path: '/page/:num/'
+paginate_path: 'page/:num/'
 
 collections:
   authors:
     output: true
-    permalink: /authors/:path/
+    permalink: authors/:path/
   tags:
     output: true
-    permalink: /tags/:path/
+    permalink: tags/:path/
 
 defaults:
   - scope:
@@ -54,7 +54,7 @@ keep_files: [assets, files]
 
 # iolo's custom
 author: opensource@kakaocorp.com
-image: '/assets/images/default_blog_cover.jpg'
+image: 'assets/images/default_blog_cover.jpg'
 asset_url: assets
 
 # google_analytics:
